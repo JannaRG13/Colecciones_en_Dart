@@ -1,0 +1,2 @@
+SALIDA DE LA CLASE FIGURA OBJETO RECTANGULO 
+![alt text](image-5.png)
